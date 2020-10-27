@@ -1,4 +1,4 @@
-# Application used in Garage Method tutorial with Cloud Foundry
+## Application used in Garage Method tutorial with Cloud Foundry
 
 This application is a simple Node.js [Express 4](http://expressjs.com/) sample that you can extend. This sample code is used in a [course](https://www.ibm.com/cloud/garage/content/course/garage-method-for-cloud-advocate) that explains how to configure a toolchain to use for cloud native development in DevOps Services and IBM Cloud. 
 
